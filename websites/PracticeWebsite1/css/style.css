@@ -4,5 +4,20 @@ p{
 }
 
 body{
-    background-color: aquamarine;
+    background-color: rgb(100, 200, 255);
 }
+
+ul{
+    font-family: Calibri, Arial;
+    color: rgb(88, 114, 128);
+}
+
+a:link{
+    color: rgb(50, 100, 128);
+}
+a:hover{
+    color: rgb(80, 160, 204);
+    text-transform: uppercase; /* This looks bad but it was a requirement */
+}
+
+
